@@ -25,3 +25,17 @@ What does time.sleep() do, and what happens to your color sequence without it?
    * Time.sleep() is a delay. If it's not included, it will go through the color sequence so fast you won't notice it.
 Which stages of your flight got which color in section 5?
    * Cyan started, Purple in flight, green for landing, all accompanied by beeps
+
+## Lesson 4: ##
+Your three height readings from section 3 — flat on the desk, held at 30 cm, held near the ceiling.
+   *
+The exact distance where the front range sensor flipped to 999.
+   *
+What does 999 mean, and why can't you treat it as a distance?
+   *
+Your color sensor results — flat and close, at an angle, in shadow, and far away.
+   *
+From section 6: what you asked for, what the drone reported, and where it actually ended up.
+   *
+From section 7: the highest and lowest height readings while hovering in place.
+   *
