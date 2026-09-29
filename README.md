@@ -10,9 +10,9 @@ CoDrone Questions + Answers:
 
 ## Lesson 2: ##
 - Your measurement table from step 1 — asked for, measured, difference, across three runs.
-    1: 81, R, 45, L, 72, R, 69 (Measurements of the course... drone overshot a lot)
-    2: 71, R, 39, L, 65, R, 50 (Decreased based on prior run... drone undershot the finish and was still way to the left)
-    3: 65, R, 24, L, 60, R, 52 (Almost perfect. Ended slightly to the left)
+   * 1: 81, R, 45, L, 72, R, 69 (Measurements of the course... drone overshot a lot)
+   * 2: 71, R, 39, L, 65, R, 50 (Decreased based on prior run... drone undershot the finish and was still way to the left)
+   * 3: 65, R, 24, L, 60, R, 52 (Almost perfect. Ended slightly to the left)
 - What you expected from the two turn_degree(90) calls in step 2, and what really happened.
    * I expected it to turn 90 degrees each time. It actually did nothing.
 - Your course sketch with the leg lengths, and how close the drone stayed to it.
